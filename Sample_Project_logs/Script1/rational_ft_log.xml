@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestLog>
+	<Event dpIter="0">
+		<Event Timestamp="18 December, 2019 11:51:19 AM IST" Type="Script Start" Headline="Script start [Script1]" Result="INFORMATION">
+			<Property line_number="1"/>
+			<Property script_iter_count="0"/>
+			<Property script_name="Script1"/>
+			<Property script_id="Script1.java"/>
+		</Event>
+		<Event Timestamp="18 December, 2019 11:51:19 AM IST" Type="Script End" Headline="Script end [Script1]" Result="PASS">
+			<Property script_name="Script1"/>
+			<Property script_id="Script1.java"/>
+		</Event>
+	</Event>
+</TestLog>
