@@ -30,7 +30,7 @@ public class ChromeTest extends ChromeTestHelper
 	public void testMain(Object[] args) 
 	{
 		// TODO Insert code here
-		timerStart(timerName);
+		//timerStart(timerName);
 	}
 }
 
